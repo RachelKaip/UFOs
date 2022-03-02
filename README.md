@@ -10,7 +10,7 @@ Need information on UFO sightings fast?  This easy to use table is just what you
 
 After reading the opening paragraph, scroll down to the table- you'll notice you can scroll inifinitely through *hundreds* of UFO sightings.  If you have an idea of what sighting you're looking, the filters on the left hand side will be your friend!
 
-insert image
+![basic table](https://user-images.githubusercontent.com/94569240/156275726-612c2511-ad01-410b-bcd6-3f3b8f96c0aa.PNG)
 
 Under "Filter Search," use the placeholder prompts to guide your entries as you narrow down your search by any of the following:
 - date
@@ -19,13 +19,15 @@ Under "Filter Search," use the placeholder prompts to guide your entries as you 
 - country
 - shape
 
-insert image
+![filters](https://user-images.githubusercontent.com/94569240/156275752-569e0486-8ad2-4678-a482-e897ef8778c6.PNG)
 
 You do not need to use all the filter options- as you'll see below, you can filter by one, or any combination, of the filter- the table will automatically adjust!
 
-insert image
+![city-filter](https://user-images.githubusercontent.com/94569240/156275770-009673a8-a912-4f00-9c0a-d8ac2c54d8f9.PNG)
 
-insert image
+--
+
+![date-state-filter](https://user-images.githubusercontent.com/94569240/156275792-91edc6df-190d-499e-936b-53ba84cf47b8.PNG)
 
 Want to clear your filters?  Just clear the search criteria and the table will automatically adjust itself back as well.    
 
